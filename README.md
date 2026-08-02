@@ -1,4 +1,4 @@
-PRIZM
+# PRIZM
 
 Description: PRIZM Is An Among Us Cheat Client, Allowing Players To Exploit.
 
