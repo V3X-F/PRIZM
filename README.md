@@ -4,7 +4,7 @@ Description: PRIZM Is An Among Us Cheat Client, Allowing Players To Exploit.
 
 PRIZM Is Not Responsible For Bans, Kicks, Or Reports.
 
-How To Download PRIZM:
+# How To Download PRIZM:
 
 1 | Extract "PRIZM-main", It Should Be A ZIP File.
 
